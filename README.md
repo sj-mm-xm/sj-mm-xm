@@ -1,4 +1,4 @@
-## Specialize in
+## I specialize in ...
 
 - Security-oriented projects  
 - Reverse engineering and static binary analysis  
